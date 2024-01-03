@@ -1,0 +1,8 @@
+{
+    "filename": "${PROJECT_HOME}/workflow.hwf",
+    "bodyContentVariable": "ASYNC_CONTENT",
+    "name": "TestRequest",
+    "runConfigurationName": "local",
+    "statusVariables": "${Pipeline_Output}",
+    "enabled": true
+  }
